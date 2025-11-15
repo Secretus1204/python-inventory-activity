@@ -4,7 +4,7 @@ while True:
     print ("\n=====INVENTORY MENU=====")
     print ("[1] Add Item")
     print ("[2] Update Item")
-    print ("[3] Delete Item")
+    print ("[3] Exit")
 
     choice = input("Choice: ")
 
